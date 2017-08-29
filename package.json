@@ -27,7 +27,7 @@
     "build": "webpack"
   },
   "pre-commit": [
-    "lint", "build-storybook"
+    "lint"
   ],
   "dependencies": {
     "@storybook/react": "^3.2.8",
