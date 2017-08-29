@@ -1,1 +1,1 @@
-# react-component-startpack
+# React Component Starterpack
